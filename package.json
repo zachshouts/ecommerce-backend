@@ -1,5 +1,5 @@
 {
-  "name": "module-13-challenge-orm",
+  "name": "ecommerce-backend",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,10 +8,6 @@
     "start": "node server.js",
     "watch": "nodemon server.js",
     "seed": "node seeds/index.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
   },
   "keywords": [],
   "author": "",

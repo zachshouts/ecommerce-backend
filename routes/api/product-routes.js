@@ -41,7 +41,6 @@ router.get('/:id', async (req, res) => {
 router.post('/', async (req, res) => {
   try {
     const productData = await Product.create(req.body);
-    console.log(productData);
     if (req.body.tagIds) {
       const productTagIds = req.body.tagIds.map((tag_id) => {
         return {

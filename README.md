@@ -41,3 +41,27 @@ During this challenge I have showcased the following
 - Creation and utilization of sequelize models and relationships
 
 - Incorporating of sequelize through express routes
+
+
+## Installation
+
+To use this application, clone the repo and within the terminal type the following commands:
+```
+npm install
+```
+
+Once you have the dependencies installed, create the database using the schema file in the db folder using MySQL workbench or the MySQL shell.
+
+Create the .env file with your credentials following the .env.EXAMPLE structure
+
+Seed the database using the following command:
+```
+npm run seed
+```
+
+You're now ready to run the application using:
+```
+npm run start
+```
+
+Follow the instructions in the terminal and enjoy.

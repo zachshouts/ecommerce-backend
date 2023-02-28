@@ -65,3 +65,15 @@ npm run start
 ```
 
 Follow the instructions in the terminal and enjoy.
+
+## Tech Stack
+
+- JavaScript 
+
+- Node.js 
+
+- Express.js
+
+- MySQL 
+
+- Sequelize
